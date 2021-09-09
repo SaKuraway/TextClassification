@@ -1,0 +1,1 @@
+cd `dirname $0`; pwd; nohup python3 ./run_main.py & bash

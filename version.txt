@@ -1,0 +1,4 @@
+Version: v2.0
+Time: 2021.08.06
+Author: SaKuraPan.
+Updated content: 上线2.0初版本，修改模型为BERT/SVM/RFC，并做集成stacking。默认模型设为STACK。
